@@ -1,2 +1,2 @@
-# GPCV-ADMM-2020
-Implementations of Gaussian Process Regression Hyper-Parameter Optimization Using Cross-Validation and Non-linearly Constrained ADMM
+# GMOGP-2024
+Implementations of the GMOGP model in the paper named "Graphical Multioiutput Gaussian Process with Attention". 
